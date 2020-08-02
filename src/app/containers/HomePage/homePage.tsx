@@ -1,5 +1,8 @@
+// Import libraries
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
+
+// Import global resources
 import books from 'assets/books.json';
 import MainLayout from 'app/components/MainLayout';
 import BookSearch from 'app/components/Booksearch';

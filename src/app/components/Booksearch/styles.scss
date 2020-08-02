@@ -1,6 +1,7 @@
 .book-search {
   .form-fields {
-    padding: 16px 32px;
+    padding: 16px;
+    text-align: center;
 
     .field {
       margin-bottom: 5px;
@@ -10,6 +11,7 @@
   .book-results {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     width: 100%;
     
     .book {
